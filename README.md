@@ -2,7 +2,7 @@
 
 Desenvolvedor full-stack focado em construir sistemas confiáveis e escaláveis.
 Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Leste.
-Apaixonado por código limpo, boa arquitetura e resolver problemas reais.
+Focado em código limpo, boa arquitetura e resolver problemas reais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
